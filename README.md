@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I'm Sean 👋
+# Hi, I'm Sean 
 
 
 
